@@ -9,7 +9,6 @@ namespace PiAthan.Console
         public static void Main(string[] args)
         {
             var salahTimeService = new SalahTimeService();
-            var todaySalahTimes = salahTimeService.GetSalahTimes();
             
             ISchedulerFactory schedulerFactory = new StdSchedulerFactory();
             IScheduler scheduler = schedulerFactory.GetScheduler();

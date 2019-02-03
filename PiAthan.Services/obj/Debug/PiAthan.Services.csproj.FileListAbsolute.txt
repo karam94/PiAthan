@@ -8,3 +8,6 @@ C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.csprojResolveAssembl
 C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.csproj.CoreCompileInputs.cache
 C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.dll
 C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.pdb
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\Newtonsoft.Json.pdb
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\Newtonsoft.Json.xml
