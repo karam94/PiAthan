@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/PiAthan.Services/SalahTimeService.cs" line="13" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0af18f1-b7ca-467d-9540-f6f8c69dd981" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PiAthan/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PiAthan/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PiAthan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PiAthan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PiAthan.Console/AthanJob.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PiAthan.Console/ScheduleSalahTimesJob.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PiAthan.Domain/Timings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PiAthan.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PiAthan.Console/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <marker date="1549222974913" expanded="true" signature="6:56" ph="..." />
+                <marker date="1549222974913" expanded="true" signature="83:987" ph="{...}" />
+                <marker date="1549222974913" expanded="true" signature="117:985" ph="{...}" />
+                <marker date="1549222974913" expanded="true" signature="170:979" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PiAthan.Console/ScheduleSalahTimesJob.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+              <folding>
+                <marker date="1549222952952" expanded="true" signature="6:120" ph="..." />
+                <marker date="1549222952952" expanded="true" signature="147:1002" ph="{...}" />
+                <marker date="1549222952952" expanded="true" signature="195:1000" ph="{...}" />
+                <marker date="1549222952952" expanded="true" signature="259:994" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PiAthan.Services/SalahTimeService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1549220169372" expanded="false" signature="6:38" ph="..." />
+                <marker date="1549220169372" expanded="true" signature="66:493" ph="{...}" />
+                <marker date="1549220169372" expanded="true" signature="102:491" ph="{...}" />
+                <marker date="1549220169372" expanded="true" signature="147:485" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PiAthan.Domain/Timings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <marker date="1549220794111" expanded="true" signature="24:446" ph="{...}" />
+                <marker date="1549220794111" expanded="true" signature="59:110" ph="{...}" />
+                <marker date="1549220794111" expanded="true" signature="137:194" ph="{...}" />
+                <marker date="1549220794111" expanded="true" signature="224:444" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PiAthan.Domain/Timings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PiAthan.Console/ScheduleSalahTimesJob.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PiAthan.Console/AthanJob.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PiAthan.Console/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PiAthan.Services/SalahTimeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7345B9D5-CE94-4083-9D97-4E596AB95E85/aa/27205c64/JobRunShell.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PiAthan.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Domain/Salah.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Services/Class1.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Domain/SalahTime.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Services/SalahTimeService.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Console/FetchSalahTimes.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Domain/Timings.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Console/FetchSalahTimesJob.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Console/AthanJob.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Console/ScheduleSalahTimesJob.cs" />
+        <option value="$PROJECT_DIR$/PiAthan.Console/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="580" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PiAthan" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PiAthan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PiAthan.Console" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PiAthan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PiAthan.Console" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PiAthan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PiAthan.Domain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PiAthan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PiAthan.Services" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PiAthan.Console/bin/Debug/PiAthan.Console.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PiAthan.Console/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PiAthan.Console/PiAthan.Console.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0af18f1-b7ca-467d-9540-f6f8c69dd981" name="Default Changelist" comment="" />
+      <created>1549212802443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549212802443</updated>
+      <workItem from="1549212804875" duration="8548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8548000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09896661" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PiAthan.Console/Program.cs</url>
+          <line>26</line>
+          <properties documentPath="$PROJECT_DIR$/PiAthan.Console/Program.cs" initialLine="26">
+            <startOffsets>
+              <option value="933" />
+            </startOffsets>
+            <endOffsets>
+              <option value="969" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PiAthan.Console/ScheduleSalahTimesJob.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/PiAthan.Console/ScheduleSalahTimesJob.cs" initialLine="32">
+            <startOffsets>
+              <option value="948" />
+            </startOffsets>
+            <endOffsets>
+              <option value="984" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PiAthan.Domain/SalahTime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Domain/Salah.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Console/job_scheduling_data_2_0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Console/FetchSalahTimesJob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="67" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7345B9D5-CE94-4083-9D97-4E596AB95E85/aa/27205c64/JobRunShell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="154" column="10" selection-start-line="154" selection-start-column="10" selection-end-line="154" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Console/AthanJob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1549222929915" expanded="true" signature="6:47" ph="..." />
+            <marker date="1549222929915" expanded="true" signature="74:370" ph="{...}" />
+            <marker date="1549222929915" expanded="true" signature="109:368" ph="{...}" />
+            <marker date="1549222929915" expanded="true" signature="173:362" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Console/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <marker date="1549222974913" expanded="true" signature="6:56" ph="..." />
+            <marker date="1549222974913" expanded="true" signature="83:987" ph="{...}" />
+            <marker date="1549222974913" expanded="true" signature="117:985" ph="{...}" />
+            <marker date="1549222974913" expanded="true" signature="170:979" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Console/ScheduleSalahTimesJob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <marker date="1549222952952" expanded="true" signature="6:120" ph="..." />
+            <marker date="1549222952952" expanded="true" signature="147:1002" ph="{...}" />
+            <marker date="1549222952952" expanded="true" signature="195:1000" ph="{...}" />
+            <marker date="1549222952952" expanded="true" signature="259:994" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Domain/Timings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1549220794111" expanded="true" signature="24:446" ph="{...}" />
+            <marker date="1549220794111" expanded="true" signature="59:110" ph="{...}" />
+            <marker date="1549220794111" expanded="true" signature="137:194" ph="{...}" />
+            <marker date="1549220794111" expanded="true" signature="224:444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiAthan.Services/SalahTimeService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1549220169372" expanded="false" signature="6:38" ph="..." />
+            <marker date="1549220169372" expanded="true" signature="66:493" ph="{...}" />
+            <marker date="1549220169372" expanded="true" signature="102:491" ph="{...}" />
+            <marker date="1549220169372" expanded="true" signature="147:485" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

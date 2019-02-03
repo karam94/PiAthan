@@ -1,0 +1,10 @@
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\PiAthan.Services.dll
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\PiAthan.Services.pdb
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\PiAthan.Domain.dll
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\RestSharp.dll
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\PiAthan.Domain.pdb
+C:\Code\PiAthan\PiAthan.Services\bin\Debug\RestSharp.xml
+C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.csprojResolveAssemblyReference.cache
+C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.csproj.CoreCompileInputs.cache
+C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.dll
+C:\Code\PiAthan\PiAthan.Services\obj\Debug\PiAthan.Services.pdb

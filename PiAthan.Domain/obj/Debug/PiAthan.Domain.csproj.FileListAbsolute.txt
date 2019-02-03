@@ -1,0 +1,6 @@
+C:\Code\PiAthan\PiAthan.Domain\bin\Debug\PiAthan.Domain.dll
+C:\Code\PiAthan\PiAthan.Domain\bin\Debug\PiAthan.Domain.pdb
+C:\Code\PiAthan\PiAthan.Domain\obj\Debug\PiAthan.Domain.csprojResolveAssemblyReference.cache
+C:\Code\PiAthan\PiAthan.Domain\obj\Debug\PiAthan.Domain.csproj.CoreCompileInputs.cache
+C:\Code\PiAthan\PiAthan.Domain\obj\Debug\PiAthan.Domain.dll
+C:\Code\PiAthan\PiAthan.Domain\obj\Debug\PiAthan.Domain.pdb
