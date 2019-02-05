@@ -1,4 +1,4 @@
-﻿using PiAthan.Services;
+﻿using System;
 using Quartz;
 using Quartz.Impl;
 
@@ -6,24 +6,34 @@ namespace PiAthan.Console
 {
     public static class Program
     {
+        private static readonly ISchedulerFactory SchedulerFactory = new StdSchedulerFactory();
+        private static readonly IScheduler Scheduler = SchedulerFactory.GetScheduler();
+        
         public static void Main(string[] args)
         {
-            var salahTimeService = new SalahTimeService();
+            System.Console.WriteLine("PiAthan App Launched!");
+            System.Console.WriteLine("http://karam.io");
             
-            ISchedulerFactory schedulerFactory = new StdSchedulerFactory();
-            IScheduler scheduler = schedulerFactory.GetScheduler();
-            scheduler.Start();
+            Scheduler.Start();
 
-            IJobDetail job = JobBuilder.Create<ScheduleSalahTimesJob>()
+            var scheduleSalahTimesJob = JobBuilder.Create<ScheduleSalahTimesJob>()
                 .Build();
 
-            ITrigger trigger = TriggerBuilder.Create()
+            var scheduleSalahTimesTrigger = TriggerBuilder.Create()
                 .StartNow()
-                //.WithSchedule(CronScheduleBuilder.CronSchedule("0 10 0 * * ?")) // Reschedule new prayer times every 00:10am
-                .WithSimpleSchedule(x => x.WithIntervalInSeconds(5).WithRepeatCount(0))
+                .WithSchedule(CronScheduleBuilder.CronSchedule("0 10 0 * * ?")) // Fetch new prayer times every 00:10am.
+                .WithSimpleSchedule(x => x.WithIntervalInSeconds(5).WithRepeatCount(0)) // Also fetch on program load once.
+                .Build();
+            
+            var programLoadJob = JobBuilder.Create<AthanJob>()
+                .Build();
+                                
+            var programLoadTrigger = TriggerBuilder.Create()
+                .StartAt(DateTime.Now)
                 .Build();
 
-            scheduler.ScheduleJob(job, trigger);
+            Scheduler.ScheduleJob(scheduleSalahTimesJob, scheduleSalahTimesTrigger);
+            Scheduler.ScheduleJob(programLoadJob, programLoadTrigger);
         }
     }
 }
