@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using NLog;
 using PiAthan.Domain;
 using PiAthan.Services;
 using Quartz;
@@ -12,12 +13,14 @@ namespace PiAthan.Console
         private static readonly ISchedulerFactory SchedulerFactory = new StdSchedulerFactory();
         private readonly IScheduler _scheduler = SchedulerFactory.GetScheduler();
         private readonly SalahTimeService _salahTimeService = new SalahTimeService();
+        private readonly Logger _logger = NLog.LogManager.GetCurrentClassLogger();
 
         private IEnumerable<Salah> GetSalahTimes()
         {
-            return _salahTimeService.GetSalahTimes().GetSalahTimes(); 
+            _logger.Info($"{DateTime.Now}: Getting new Salah times...)");
+            return _salahTimeService.GetSalahTimes().GetSalahTimes();
         }
-        
+
         public void Execute(IJobExecutionContext context)
         {
             _scheduler.Start();
@@ -26,13 +29,15 @@ namespace PiAthan.Console
             {
                 var job = JobBuilder.Create<AthanJob>()
                     .Build();
-                
-                if(salah.Datetime > DateTime.Now){
+
+                if (salah.Datetime > DateTime.Now)
+                {
                     var salahTimeTrigger = TriggerBuilder.Create()
                         .StartAt(salah.Datetime)
                         .Build();
-    
+
                     _scheduler.ScheduleJob(job, salahTimeTrigger);
+                    _logger.Info($"Scheduled {salah.Name} at {salah.Datetime.ToShortTimeString()}");
                     System.Console.WriteLine($"Scheduled {salah.Name} at {salah.Datetime.ToShortTimeString()}");
                 }
             }
