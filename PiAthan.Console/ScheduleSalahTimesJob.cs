@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using NLog;
 using PiAthan.Domain;
 using PiAthan.Services;
@@ -25,7 +26,7 @@ namespace PiAthan.Console
         {
             _scheduler.Start();
 
-            foreach (var salah in GetSalahTimes())
+            foreach (var salah in GetSalahTimes().Where(x => x.Name != "Fajr"))
             {
                 var job = JobBuilder.Create<AthanJob>()
                     .Build();
